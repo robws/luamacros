@@ -15,6 +15,11 @@ Macro action can be anything scripted in Lua language with some extensions
 
 For details see http://www.hidmacros.eu/forum/
 
+# Users guide
+
+1. Extract the files to a folder on your drive
+
+![Extraction](./assets/extraction.png)
 # binary download
 Download [luamacros.zip](http://www.hidmacros.eu/luamacros.zip)
 
